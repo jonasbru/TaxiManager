@@ -1,0 +1,22 @@
+<projectDescription>
+  <id>1273945084225</id>
+  <name>TaxiManager</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Jonas/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Jonas/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///E|/Documents/UTBM/IN42/TaxiManager/main.fla</defaultApp>
+  <rootURI>file:///E|/Documents/UTBM/IN42/TaxiManager/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Voiture.as">file:///E|/Documents/UTBM/IN42/TaxiManager/com/taxiProjectClasses/Voiture.as</uri>
+    <uri label="Etat.as">file:///E|/Documents/UTBM/IN42/TaxiManager/com/taxiProjectClasses/Etat.as</uri>
+    <uri label="EtatT.as">file:///E|/Documents/UTBM/IN42/TaxiManager/com/taxiProjectClasses/EtatT.as</uri>
+    <uri label="main.fla">file:///E|/Documents/UTBM/IN42/TaxiManager/main.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
